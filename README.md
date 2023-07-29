@@ -1,3 +1,6 @@
+Тестовое задание "Отзывы об автомобилях" для https://elros.info
+использовались django, drf и postgreSQL
+
 git clone https://github.com/NikitaMatveev999/car_reviews.git
 
 Проект использует файл .env для хранения конфиденциальной информации.
